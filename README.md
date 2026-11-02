@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Marcus-Volvo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: There are only two and I am a MALE
-- ⚡ Fun fact: ...
+👋
+System designer working with automotive climate systems.
 
-<!---
-Marcus-Volvo/Marcus-Volvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like cars, electronics, software and understanding how things work.
+
+Currently playing around with:
+
+🐍 Python
+🤖 AI & automation
+🔌 Embedded systems
+🛠️ Small tools that make work easier
+📐 Diagrams and system architecture
+This is mostly where I put experiments, useful stuff and random projects.
+
+⚡ I have a tendency to automate things that would probably have been faster to do manually.
